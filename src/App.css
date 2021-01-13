@@ -2,16 +2,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 100px;
   height: 100vh;
   width: 100%;
 }
 
-.calc-wrapper {
+.calc-body {
   width: 400px;
   height: 600px;
 }
 
 .row {
   display: flex;
-  width: 700%;
+  width: 100%;
 }
